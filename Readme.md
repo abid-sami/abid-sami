@@ -1,28 +1,20 @@
-<h2 align="center">Hey👋 I am Ragib Hasan Abid Sami</h2>
+<h2 align="center">Hi👋! I am Ragib Hasan Abid Sami</h2>
 
 
 <h4 align="center">Web Desinger |  Wordpress Developer | Content Writer</h4>
 
 👨‍💻 About Me
-- Passionate about building clean and user-friendly websites
-- Skilled in WordPress, HTML, CSS, and SEO
-- Currently learning C, C++, Java, and Python
-- Love blogging and sharing knowledge
-
----
-
-🛠️ Skills
-- 🌐 Web: HTML, CSS, JavaScript
-- ⚙️ CMS: WordPress
-- 📈 SEO & Content Writing
-- 💻 Programming: C, C++, Java, Python
+🌐 Passionate about building clean and user-friendly websites
+⚙️ Skilled in WordPress, HTML, CSS and SEO
+📈 Currently learning C, C++, Java and Python
+💻 Love blogging and sharing knowledge
 
 ---
 
 🚀 Projects
 - 🌍 Portfolio: https://abidsami.vercel.app  
 - 📝 Blog: https://abidsami.blogspot.com  
-
+---
 
 <div align="center">
   <a href="https://www.facebook.com/ragib.hasan.abid/" target="_blank">
@@ -42,8 +34,8 @@
  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
