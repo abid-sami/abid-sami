@@ -12,7 +12,7 @@
 ---
 
 🚀 Projects
-- 🌍 Portfolio: https://abidsami.vercel.app  
+- 🌍 Portfolio: https://sami.iam.bd
 - 📝 Blog: https://abidsami.blogspot.com  
 ---
  
